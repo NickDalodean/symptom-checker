@@ -1,0 +1,25 @@
+{
+    "symptoms": [
+      {
+        "name": "Fever",
+        "illnesses": ["flu", "cold", "tired"]
+      },
+      {
+        "name": "Cough",
+        "illnesses": ["Bronchitis", "Pneumonia", "Asthma"]
+      },
+      {
+        "name": "Headache",
+        "illnesses": ["Migraine", "Tension Headache", "Sinusitis"]
+      },
+      {
+        "name": "Fatigue",
+        "illnesses": ["Anemia", "Chronic Fatigue Syndrome", "Depression"]
+      },
+      {
+        "name": "Sore Throat",
+        "illnesses": ["Strep Throat", "Common Cold", "Flu"]
+      }
+    ]
+  }
+  
