@@ -23,7 +23,7 @@ function SymptomChecker() {
         "swelling": ["Injury", "Infection", "Allergic Reaction"],
         "difficulty swallowing": ["Esophagitis", "Throat Cancer", "GERD"],
         "burning sensation": ["Urinary Tract Infection", "Gastritis", "Peripheral Neuropathy"],
-        "lump": ["Cancer", ""]
+        "lump": ["Cancer", "Bruise"]
         // Add more mappings as needed
     };
     const checkPossibleIllnesses = (inputSymptoms) => {
